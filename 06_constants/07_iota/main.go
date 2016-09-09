@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// following are constants
 const (
 	_  = iota             // 0
 	KB = 1 << (iota * 10) // 1 << (1 * 10)
